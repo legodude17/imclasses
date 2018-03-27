@@ -1,0 +1,24 @@
+{
+  "name": "imclass",
+  "version": "0.0.0",
+  "description": "A utility to create and use immutable classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legodude17/imclasses.git"
+  },
+  "keywords": [
+    "class",
+    "immutable",
+    "functional"
+  ],
+  "author": "JDB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legodude17/imclasses/issues"
+  },
+  "homepage": "https://github.com/legodude17/imclasses#readme"
+}
